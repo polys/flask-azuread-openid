@@ -4,3 +4,4 @@ flask==1.0.2
 Flask-HTTPAuth==3.2.4
 jwcrypto==0.6.0
 beaker==1.10.1
+gunicorn==19.9.0
