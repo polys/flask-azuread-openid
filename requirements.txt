@@ -1,6 +1,6 @@
-python-dotenv==0.7.1
-requests>=2.20.0
-Flask==0.12.2
-Flask-HTTPAuth==3.2.3
-jwcrypto==0.4.2
-beaker==1.9.0
+python-dotenv==0.10.1
+requests==2.21.0
+flask==1.0.2
+Flask-HTTPAuth==3.2.4
+jwcrypto==0.6.0
+beaker==1.10.1
