@@ -1,7 +1,6 @@
 .git
 .gitignore
 .vscode
-.style.yapf
 .dockerignore
 Dockerfile
 __pycache__/
